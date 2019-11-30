@@ -32,4 +32,4 @@ productName:qwerty
 ```
   You can try various combinations like above using keywords like AND, OR, etc.
 
-Reference link for Apache Solr Querying Documentation: (`https://lucene.apache.org/solr/guide/6_6/common-query-parameters.html`)
+Reference link for Apache Solr Querying Documentation: "https://lucene.apache.org/solr/guide/6_6/common-query-parameters.html"

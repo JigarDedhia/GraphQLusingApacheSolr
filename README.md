@@ -1,6 +1,8 @@
 # GraphQLusingApacheSolr
 GraphQL Demo using Apache Solr
 
+#Prerequisite - 
+Install Apache Solr using the link https://lucene.apache.org/solr/guide/7_0/installing-solr.html
 
 The steps to run and test the application:
 1. Run the application as a Spring Maven Application
